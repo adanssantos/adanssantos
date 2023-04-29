@@ -1,5 +1,5 @@
 
-## Olá eu sou Adans dos Santos, sou desenvolvedor web, sou designer gráfico e sou CEO da alpha tech
+## Olá eu sou Adans, sou desenvolvedor web, sou designer 
 <div align="center">
   <a href="https://github.com/adanssantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adanssantos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
