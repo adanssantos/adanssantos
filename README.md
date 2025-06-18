@@ -1,5 +1,5 @@
 
-## Olá eu sou Adans, sou desenvolvedor web, sou designer 
+## Olá eu sou Adans, sou desenvolvedor backend! 
 <div align="center">
   <a href="https://github.com/adanssantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adanssantos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
